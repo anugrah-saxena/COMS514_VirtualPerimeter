@@ -1,0 +1,36 @@
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\RestSharp.dll
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\Twilio.Api.dll
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\RestSharp.xml
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\Twilio.Api.pdb
+C:\Users\zhaom\Desktop\New folder\SkeletonBasics-WPF\bin\Debug\Twilio.Api.xml
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\RestSharp.dll
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\Twilio.Api.dll
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\RestSharp.xml
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\Twilio.Api.pdb
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\bin\Debug\Twilio.Api.xml
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\arvind\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
